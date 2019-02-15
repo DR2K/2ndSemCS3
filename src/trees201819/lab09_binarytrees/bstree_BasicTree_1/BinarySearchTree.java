@@ -1,11 +1,6 @@
-package trees201819.lab09_binarytrees.bstree_BasicTree_1;//(c) A+ Computer Science
-//www.apluscompsci.com
-
-//Name -
+package trees201819.lab09_binarytrees.bstree_BasicTree_1;
 
 import static java.lang.System.*;
-
-import java.util.LinkedList;
 
 public class BinarySearchTree {
     private TreeNode root;
@@ -29,7 +24,6 @@ public class BinarySearchTree {
             tree.setLeft(add(val, tree.getLeft()));
         else if (dirTest > 0)
             tree.setRight(add(val, tree.getRight()));
-
         return tree;
     }
 
@@ -110,18 +104,35 @@ public class BinarySearchTree {
     }
 
     public int getHeight() {
+        return getHeight(root);
+    }
 
+    private int getHeight(TreeNode tree) {
         return 0;
     }
 
     public int getNumNodes() {
-        if (root!=null)
-            
-        return 0;
+        return getNumNodes(root);
+    }
+
+    private int getNumNodes(TreeNode tree) {
+        if (root != null)
+            return getNumNodes(tree.getRight()) + getNumNodes(tree.getLeft()) + 1;
+        else
+            return 0;
     }
 
     public boolean isFull() {
-        return false;
+        return isFull(root);
+    }
+
+    private boolean isFull(TreeNode tree) {
+        if (tree.getLeft() != null && tree.getRight() != null)
+            return isFull(tree.getLeft()) && isFull(tree.getRight());
+        if (tree.getLeft() == null && tree.getRight() == null)
+            return true;
+        else
+            return false;
     }
 
 

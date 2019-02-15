@@ -1,14 +1,15 @@
-package trees201819.lab09_binarytrees.bstree_BasicTree_1;//(c) A+ Computer Science
-//www.apluscompsci.com
+package trees201819.lab09_binarytrees.bstree_BasicTree_1;
 
-//Name -
+public interface Treeable {
+    public Object getValue();
 
-public interface Treeable
-{
-	public Object getValue();
-	public Treeable getLeft();
-	public Treeable getRight();
-	public void setValue(Comparable value);
-	public void setLeft(Treeable left);
-	public void setRight(Treeable right);
+    public Treeable getLeft();
+
+    public Treeable getRight();
+
+    public void setValue(Comparable value);
+
+    public void setLeft(Treeable left);
+
+    public void setRight(Treeable right);
 }
