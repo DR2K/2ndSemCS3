@@ -21,6 +21,10 @@ public class BSTreeRunner {
         bstree.revOrder();
         System.out.println(bstree.isFull());
         System.out.println(bstree.getNumNodes());
+        System.out.println(bstree.getHeight());
+        System.out.println(bstree.getNumLeaves());
+        System.out.println(bstree.getNumLevels());
+        System.out.println(bstree.getWidth());
 
     }
 }

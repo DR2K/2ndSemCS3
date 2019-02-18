@@ -1,7 +1,5 @@
-package trees201819.lab09_binarytrees.bstree_HistoTree1_3;//(c) A+ Computer Science
-//www.apluscompsci.com
+package trees201819.lab09_binarytrees.bstree_HistoTree1_3;
 
-//Name -
 public class HistoTreeRunner
 {
 	public static void main(String[] args)

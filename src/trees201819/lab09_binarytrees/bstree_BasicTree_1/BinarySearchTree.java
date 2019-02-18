@@ -1,5 +1,8 @@
 package trees201819.lab09_binarytrees.bstree_BasicTree_1;
 
+import java.util.LinkedList;
+import java.util.Queue;
+
 import static java.lang.System.*;
 
 public class BinarySearchTree {
@@ -95,12 +98,51 @@ public class BinarySearchTree {
 
     //add getNumLeaves, getWidth, getHeight, getNumNodes, and isFull
     public int getNumLeaves() {
+        return getNumLeaves(root);
+    }
 
+    private int getNumLeaves(TreeNode tree) {
+        if (tree.getRight()==null&&tree.getLeft()==null)
+            return 1;
+        if (tree.getLeft()!=null&&tree.getRight()!=null)
+            return getNumLeaves(tree.getRight())+getNumLeaves(tree.getLeft());
+        if (tree.getLeft()!=null)
+            return getNumLeaves(tree.getLeft());
+        if (tree.getRight()!=null)
+            return getNumLeaves(tree.getRight());
         return 0;
     }
 
     public int getWidth() {
-        return 0;
+        return getWidth(root);
+    }
+
+    private int getWidth(TreeNode tree) {
+        Queue<TreeNode> row = new LinkedList<>();
+        row.add(root);
+        row.add(null); // use null as a marker for the end of a row.
+        int maxwidth = 1;
+        while (!row.isEmpty()) {
+            TreeNode n = row.remove();
+            if (n == null) {
+                // next row
+                int rowsize = row.size();
+                if (rowsize > 0) {
+                    if (rowsize > maxwidth) {
+                        maxwidth = rowsize;
+                    }
+                    row.add(null); // add new end-of-row-marker.
+                }
+            } else {
+                if (n.getLeft() != null) {
+                    row.add(n.getLeft());
+                }
+                if (n.getRight() != null) {
+                    row.add(n.getRight());
+                }
+            }
+        }
+        return maxwidth;
     }
 
     public int getHeight() {
@@ -108,7 +150,16 @@ public class BinarySearchTree {
     }
 
     private int getHeight(TreeNode tree) {
-        return 0;
+        if (tree == null) {
+            return -1;
+        }
+        int lef = getHeight(tree.getLeft());
+        int rig = getHeight(tree.getRight());
+        if (lef > rig) {
+            return lef + 1;
+        } else {
+            return rig + 1;
+        }
     }
 
     public int getNumNodes() {
@@ -116,7 +167,7 @@ public class BinarySearchTree {
     }
 
     private int getNumNodes(TreeNode tree) {
-        if (root != null)
+        if (tree != null)
             return getNumNodes(tree.getRight()) + getNumNodes(tree.getLeft()) + 1;
         else
             return 0;
@@ -152,7 +203,7 @@ public class BinarySearchTree {
 
 
     public String toString() {
-        return "";
+        return toString(root);
     }
 
     private String toString(TreeNode tree) {

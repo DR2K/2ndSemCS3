@@ -1,43 +1,33 @@
-package trees201819.lab09_binarytrees.bstree_HistoTree1_3;//(c) A+ Computer Science
-//www.apluscompsci.com
+package trees201819.lab09_binarytrees.bstree_HistoTree1_3;
 
-//Name -
+public class HistoTree {
+    private HistoNode root;
 
-public class HistoTree
-{
-   private HistoNode root;
+    public HistoTree() {
+        root = null;
+    }
 
-	public HistoTree( )
-	{
-		root = null;
-	}
+    public void addData(Comparable data) {
+        add(data, root);
+    }
 
-	public void addData(Comparable data)
-	{
-	}
+    private HistoNode add(Comparable data, HistoNode tree) {
+        return null;
+    }
 
-	private HistoNode add(Comparable data, HistoNode tree)
-	{
-		return null;
-	}
+    public HistoNode search(Comparable data) {
+        return search(data, root);
+    }
 
-	public HistoNode search(Comparable data)
-	{
-		return null;
-	}
+    private HistoNode search(Comparable data, HistoNode tree) {
+        return null;
+    }
 
-	private HistoNode search(Comparable data, HistoNode tree)
-	{
-		return null;
-	}
+    public String toString() {
+        return toString(root);
+    }
 
-	public String toString()
-	{
-		return "";
-	}
-
-	private String toString(HistoNode tree)
-	{
-		return "";
-	}
+    private String toString(HistoNode tree) {
+        return "";
+    }
 }
