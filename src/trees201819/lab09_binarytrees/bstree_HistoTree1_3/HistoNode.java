@@ -1,7 +1,4 @@
-package trees201819.lab09_binarytrees.bstree_HistoTree1_3;//(c) A+ Computer Science
-//www.apluscompsci.com
-
-//Name -
+package trees201819.lab09_binarytrees.bstree_HistoTree1_3;
 
 public class HistoNode
 {

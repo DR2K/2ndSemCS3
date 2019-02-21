@@ -15,6 +15,7 @@ public class BinarySearchTree {
     public void add(Comparable val) {
         root = add(val, root);
     }
+    public TreeNode getRoot(){return root;}
 
     private TreeNode add(Comparable val, TreeNode tree) {
         if (tree == null)

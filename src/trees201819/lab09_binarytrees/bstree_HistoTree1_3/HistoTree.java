@@ -8,10 +8,12 @@ public class HistoTree {
     }
 
     public void addData(Comparable data) {
-        add(data, root);
+        root = add(data, root);
     }
 
     private HistoNode add(Comparable data, HistoNode tree) {
+        if (tree==null)
+            return new HistoNode(data,1,null,null);
         return null;
     }
 
