@@ -13,70 +13,56 @@
     <session id="-572725770">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="19" />
+          <entry key="project.closed" value="20" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.3" value="3" />
-          <entry key="project.open.time.4" value="7" />
+          <entry key="project.open.time.4" value="8" />
           <entry key="project.open.time.5" value="5" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="19" />
+          <entry key="project.opened" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="4" />
-          <entry key="java" value="126" />
+          <entry key="in" value="5" />
+          <entry key="java" value="135" />
+          <entry key="out" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="4" />
-          <entry key="JAVA" value="126" />
+          <entry key="JAVA" value="135" />
+          <entry key="PLAIN_TEXT" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="9695" />
+          <entry key="in" value="78" />
+          <entry key="java" value="10618" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="9695" />
+          <entry key="JAVA" value="10618" />
+          <entry key="PLAIN_TEXT" value="78" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/trees201819/lab09_binarytrees/bstree_HistoTree1_3/HistoTreeRunner.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="2" column="17" lean-forward="true" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/trees201819/lab09_binarytrees/bstree_HistoTree1_3/HistoTree.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
-              <folding>
-                <element signature="e#208#209#0" expanded="true" />
-                <element signature="e#246#247#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/trees201819/lab09_binarytrees/bstree_HistoTree1_3/HistoNode.java">
+        <entry file="file://$PROJECT_DIR$/src/CodeWars/P3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="27" lean-forward="true" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+            <state relative-caret-position="180">
+              <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -138,6 +124,13 @@
         <option value="$PROJECT_DIR$/src/trees201819/lab09_binarytrees/bstree_BasicTree_1/TreeNode.java" />
         <option value="$PROJECT_DIR$/src/trees201819/lab09_binarytrees/bstree_BasicTree_1/BinarySearchTree.java" />
         <option value="$PROJECT_DIR$/src/breakIsIllegible.java" />
+        <option value="$PROJECT_DIR$/src/CodeWars/P0.java" />
+        <option value="$PROJECT_DIR$/src/P1.in" />
+        <option value="$PROJECT_DIR$/src/CodeWars/P1.java" />
+        <option value="$PROJECT_DIR$/P1.in" />
+        <option value="$PROJECT_DIR$/P2.in" />
+        <option value="$PROJECT_DIR$/src/CodeWars/P2.java" />
+        <option value="$PROJECT_DIR$/src/CodeWars/P3.java" />
       </list>
     </option>
   </component>
@@ -168,51 +161,7 @@
               <item name="2ndSemCS3" type="b2602c69:ProjectViewProjectNode" />
               <item name="2ndSemCS3" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="trees201819" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="2ndSemCS3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="2ndSemCS3" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="trees201819" type="462c0819:PsiDirectoryNode" />
-              <item name="lab09_binarytrees" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="2ndSemCS3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="2ndSemCS3" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="trees201819" type="462c0819:PsiDirectoryNode" />
-              <item name="lab09_binarytrees" type="462c0819:PsiDirectoryNode" />
-              <item name="bstree_BasicTree_1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="2ndSemCS3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="2ndSemCS3" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="trees201819" type="462c0819:PsiDirectoryNode" />
-              <item name="lab09_binarytrees" type="462c0819:PsiDirectoryNode" />
-              <item name="bstree_HistoTree1_3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="2ndSemCS3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="2ndSemCS3" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="trees201819" type="462c0819:PsiDirectoryNode" />
-              <item name="AddPrintOne_Sol.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="2ndSemCS3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="2ndSemCS3" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="trees201819" type="462c0819:PsiDirectoryNode" />
-              <item name="AddPrintTwo.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="2ndSemCS3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="2ndSemCS3" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="trees201819" type="462c0819:PsiDirectoryNode" />
-              <item name="AddPrintTwo_Sol.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="CodeWars" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -224,6 +173,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/src/LinkedListQuiz" />
     </key>
@@ -240,7 +190,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.breakIsIllegible">
+  <component name="RunManager" selected="Application.P2">
     <configuration name="BSTreeRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="trees201819.lab09_binarytrees.bstree_BasicTree_1.BSTreeRunner" />
       <module name="2ndSemCS3" />
@@ -254,19 +204,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DutchSolitaire" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DutchSolitaire" />
-      <module name="2ndSemCS3" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DutchSolitare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DutchSolitare" />
+    <configuration name="P0" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodeWars.P0" />
       <module name="2ndSemCS3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value=".*" />
+          <option name="PATTERN" value="CodeWars.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -274,12 +217,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HistoTreeRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="trees201819.lab09_binarytrees.bstree_HistoTree1_3.HistoTreeRunner" />
+    <configuration name="P1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodeWars.P1" />
       <module name="2ndSemCS3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="trees201819.lab09_binarytrees.bstree_HistoTree1_3.*" />
+          <option name="PATTERN" value="CodeWars.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodeWars.P2" />
+      <module name="2ndSemCS3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CodeWars.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -295,19 +251,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.DutchSolitare" />
-      <item itemvalue="Application.DutchSolitaire" />
       <item itemvalue="Application.BSTreeRunner" />
-      <item itemvalue="Application.HistoTreeRunner" />
       <item itemvalue="Application.breakIsIllegible" />
+      <item itemvalue="Application.P0" />
+      <item itemvalue="Application.P1" />
+      <item itemvalue="Application.P2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P2" />
+        <item itemvalue="Application.P1" />
+        <item itemvalue="Application.P0" />
         <item itemvalue="Application.breakIsIllegible" />
         <item itemvalue="Application.BSTreeRunner" />
-        <item itemvalue="Application.HistoTreeRunner" />
-        <item itemvalue="Application.DutchSolitaire" />
-        <item itemvalue="Application.DutchSolitare" />
       </list>
     </recent_temporary>
   </component>
@@ -325,14 +281,14 @@
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26862028" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2716728" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Learn" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32987553" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.23651452" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4993895" weight="0.37033194" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -354,49 +310,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../1stSemCS3/src/CardPuzzle/GeneralCardLayoutSquare.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Starfighter Spaceship/src/StarFighter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Starfighter Spaceship/src/OuterSpace.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="70" column="14" selection-start-line="70" selection-start-column="14" selection-end-line="70" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DutchSolitare/RunningFile.java" />
-    <entry file="file://$PROJECT_DIR$/src/DutchSolitare/Card.java" />
-    <entry file="file://$PROJECT_DIR$/../1stSemCS3/src/CardPuzzle/fivebyfive.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3330">
-          <caret line="225" column="18" selection-start-line="225" selection-start-column="18" selection-end-line="225" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="908" selection-start-line="908" selection-end-line="908" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/awt/Window.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="2024" selection-start-line="2024" selection-end-line="2024" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/APCS(AB)-35-Binary Trees/Programs35/Backup/Java3501.java" />
-    <entry file="file://$PROJECT_DIR$/src/APCS(AB)-35-Binary Trees/Programs35/Backup/Java3502.java" />
-    <entry file="file://$PROJECT_DIR$/src/APCS(AB)-35-Binary Trees/Programs35/Backup/Java3503.java" />
     <entry file="file://$PROJECT_DIR$/src/APCS(AB)-35-Binary Trees/Programs35/Backup/Java3504.java" />
     <entry file="file://$PROJECT_DIR$/src/APCS(AB)-35-Binary Trees/Programs35/Backup/Java3505.java" />
     <entry file="file://$PROJECT_DIR$/src/APCS(AB)-35-Binary Trees/Programs35/Backup/Java3506.java" />
@@ -596,9 +509,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="555">
           <caret line="37" selection-start-line="37" selection-end-line="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -616,24 +526,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/trees201819/lab09_binarytrees/bstree_HistoTree1_3/HistoTreeRunner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="2" column="17" lean-forward="true" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/trees201819/lab09_binarytrees/bstree_HistoTree1_3/HistoTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
-          <folding>
-            <element signature="e#208#209#0" expanded="true" />
-            <element signature="e#246#247#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/trees201819/lab09_binarytrees/bstree_BasicTree_1/BinarySearchTree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="263">
@@ -646,10 +538,109 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/trees201819/lab09_binarytrees/bstree_HistoTree1_3/HistoTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+          <folding>
+            <element signature="e#208#209#0" expanded="true" />
+            <element signature="e#246#247#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/trees201819/lab09_binarytrees/bstree_HistoTree1_3/HistoNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="6" column="27" lean-forward="true" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+          <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trees201819/lab09_binarytrees/bstree_HistoTree1_3/HistoTreeRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P0.out">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../1stSemCS3/src/usacoTraining/beads.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P1.out">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P1.in">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/Scanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="1539" selection-start-line="1539" selection-end-line="1539" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P2.in">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P2.out">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="18" lean-forward="true" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CodeWars/P1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="24" selection-start-line="11" selection-end-line="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CodeWars/P0.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CodeWars/P2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="52" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="12" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CodeWars/P3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
